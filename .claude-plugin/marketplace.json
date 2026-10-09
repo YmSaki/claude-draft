@@ -1,0 +1,8 @@
+{
+  "name": "ym-claude-draft",
+  "description": "Claude Draft — temporary document editing inside Claude Code",
+  "owner": { "name": "YmSaki" },
+  "plugins": [
+    { "name": "claude-draft", "source": "./", "description": "Edit temporary prose documents with Claude Code Mods" }
+  ]
+}

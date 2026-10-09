@@ -1,0 +1,10 @@
+# Local draft data and workspace caches must never be published.
+.claude/
+.claude-plugin/types/
+node_modules/
+coverage/
+.env
+.env.*
+*.local.*
+*.log
+.DS_Store
