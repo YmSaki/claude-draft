@@ -1,0 +1,4 @@
+{
+  "description": "Claude Draft temporary document editor Mod",
+  "modules": ["./register.mjs"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-draft",
+  "version": "0.1.0",
+  "description": "An object-oriented temporary document editor inside Claude Code: collaborative prose editing, revisions, history, preview and explicit export, without workspace draft files.",
+  "author": { "name": "YmSaki" },
+  "license": "Apache-2.0"
+}

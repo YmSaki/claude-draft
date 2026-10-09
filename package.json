@@ -1,0 +1,9 @@
+{
+  "name": "claude-draft",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A Claude Code Mod for temporary, object-oriented document editing",
+  "scripts": { "test": "node --test tests/*.test.mjs", "check": "node --check hooks/register.mjs && node --check hooks/draft-core.mjs" },
+  "engines": { "node": ">=20" }
+}
